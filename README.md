@@ -1,6 +1,6 @@
 # Images-to-Ascll-Art
 
-This is a easy program that transform a picture to a ascll art
+This is an easy program that transform a picture to a ascll art
 
 used sRGB IEC61966-2.1 公式: gray ＝ 0.2126 * r + 0.7152 * g + 0.0722 * b
 
